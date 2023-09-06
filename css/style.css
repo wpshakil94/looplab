@@ -1,0 +1,83 @@
+/* ______________header-start________________ */
+.main-hader{
+    background: #292b2c;
+    opacity: 0.7;
+    border-bottom: 3px solid #008ed6;
+}
+.main-hader nav{
+    
+    background: #292b2c;
+    
+}
+
+.logo{
+    color: rgba(255,255,255,.5);
+}
+.main-hader .navbar-brand:hover{
+    color: rgba(255,255,255,.5);
+}
+.main-hader ul li a{
+    color: rgba(255,255,255,.5);
+    
+}
+.main-hader ul li a:hover{
+    color: rgba(255,255,255,.75);
+}
+/* ______________header-end________________ */
+
+/* ______________home-start________________ */
+.home{
+    background: url(../img/home.jpg) no-repeat center top;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+.overlay{
+    background: rgb(0,0,0,0.7);
+    min-height: 700px;
+}
+.overlay .col-8 h1{
+    padding-top: 160px;
+}
+.img{
+    max-width: 100%;
+}
+
+/* ______________home-end________________ */
+
+
+/* _________________EXPLORE-start_____________ */
+
+.EXPLORE{
+background-color: #333333;
+padding-bottom: 60px;
+}
+/* _________________EXPLORE-end_____________ */
+
+/* __________________Create-start_____________ */
+.Create{
+    background-color: #007BFF;
+}
+.creat-section{
+    background-color: #333333;
+}
+/* __________________Create-start_____________ */
+
+/* ________________share_start________________ */
+.share{
+    background-color: #007BFF;
+}
+/* ________________share_end________________ */
+
+/* ________________footer-start______________ */
+.Footer{
+background-color: #333333;
+}
+.t{
+    color: #F4BA11;
+    text-decoration: none;
+}
+.t:hover{
+    text-decoration: underline;
+}
+/* ________________footer-end______________ */
